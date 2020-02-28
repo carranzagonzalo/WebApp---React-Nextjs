@@ -1,0 +1,54 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/buscar.js": 0,
+      "multi private-next-pages/index.js": 1,
+      "multi private-next-pages/ingresar.js": 2,
+      "multi private-next-pages/suscribirse.js": 3,
+      "multi next/dist/pages/_app": 4,
+      "multi next/dist/pages/_error": 5,
+      "multi next/dist/pages/_document": 6
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static\\zJtEnyvqgLn_RuN5vRhic\\pages\\_app.js": 2,
+      "static\\zJtEnyvqgLn_RuN5vRhic\\pages\\_document.js": 3,
+      "static\\zJtEnyvqgLn_RuN5vRhic\\pages\\_error.js": 4,
+      "static\\zJtEnyvqgLn_RuN5vRhic\\pages\\buscar.js": 5,
+      "static\\zJtEnyvqgLn_RuN5vRhic\\pages\\index.js": 6,
+      "static\\zJtEnyvqgLn_RuN5vRhic\\pages\\ingresar.js": 7,
+      "static\\zJtEnyvqgLn_RuN5vRhic\\pages\\suscribirse.js": 8,
+      "static\\1jxP1Sk98TjxEZWQ6d6Jz\\pages\\_app.js": 9,
+      "static\\1jxP1Sk98TjxEZWQ6d6Jz\\pages\\_document.js": 10,
+      "static\\1jxP1Sk98TjxEZWQ6d6Jz\\pages\\_error.js": 11,
+      "static\\1jxP1Sk98TjxEZWQ6d6Jz\\pages\\buscar.js": 12,
+      "static\\1jxP1Sk98TjxEZWQ6d6Jz\\pages\\index.js": 13,
+      "static\\1jxP1Sk98TjxEZWQ6d6Jz\\pages\\ingresar.js": 14,
+      "static\\1jxP1Sk98TjxEZWQ6d6Jz\\pages\\suscribirse.js": 15
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      9
+    ]
+  }
+}

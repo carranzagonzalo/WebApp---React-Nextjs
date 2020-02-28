@@ -1,0 +1,43 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-08f7b238829422e3b9b2.js",
+      "static/chunks/commons.7a95f18e7520e8c278f9.js",
+      "static/runtime/main-eb0adadbafe721ef91d2.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-08f7b238829422e3b9b2.js",
+      "static/chunks/commons.7a95f18e7520e8c278f9.js",
+      "static/runtime/main-eb0adadbafe721ef91d2.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-08f7b238829422e3b9b2.js",
+      "static/chunks/commons.7a95f18e7520e8c278f9.js",
+      "static/runtime/main-eb0adadbafe721ef91d2.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-a591b2980a0968e30eae.js"
+    ],
+    "/buscar": [
+      "static/runtime/webpack-08f7b238829422e3b9b2.js",
+      "static/chunks/commons.7a95f18e7520e8c278f9.js",
+      "static/runtime/main-eb0adadbafe721ef91d2.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-08f7b238829422e3b9b2.js",
+      "static/chunks/commons.7a95f18e7520e8c278f9.js",
+      "static/runtime/main-eb0adadbafe721ef91d2.js"
+    ],
+    "/ingresar": [
+      "static/runtime/webpack-08f7b238829422e3b9b2.js",
+      "static/chunks/commons.7a95f18e7520e8c278f9.js",
+      "static/runtime/main-eb0adadbafe721ef91d2.js"
+    ],
+    "/suscribirse": [
+      "static/runtime/webpack-08f7b238829422e3b9b2.js",
+      "static/chunks/commons.7a95f18e7520e8c278f9.js",
+      "static/runtime/main-eb0adadbafe721ef91d2.js"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport Layout from '../components/layout/Layout';\nimport { jsx as ___EmotionJSX } from \"@emotion/core\";\n\nvar Home = function Home() {\n  return ___EmotionJSX(\"div\", null, ___EmotionJSX(Layout, null));\n};\n\nexport default Home;","map":null,"metadata":{},"sourceType":"module"}
